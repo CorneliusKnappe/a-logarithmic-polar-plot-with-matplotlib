@@ -6,3 +6,5 @@ Hopefully, someone reads this, who is more in to matplotlib,  can fix the proble
 
 
 .. image:: https://matplotlib.org/_static/readme_preview.png
+
+.. image:: https://github.com/CorneliusKnappe/a-logarithmic-polar-plot-with-matplotlib/blob/main/example1.pdf

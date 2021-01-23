@@ -5,6 +5,6 @@ In research group of Prof. Weimar at the Eberhard-Karls University i wrote a jup
 Hopefully, someone reads this, who is more in to matplotlib,  can fix the problems and makes matplotlib a bit more powerfull.
 
 
-.. image:: https://matplotlib.org/_static/readme_preview.png
+.. image:: https://github.com/CorneliusKnappe/a-logarithmic-polar-plot-with-matplotlib/blob/main/log_polar_plot.png
 
 .. image:: https://github.com/CorneliusKnappe/a-logarithmic-polar-plot-with-matplotlib/blob/main/example1.pdf

@@ -1,8 +1,8 @@
-***
+******************************************
 A logarithmic polar plot with matplotlib
-***
+******************************************
 
-A Jupyter notebook for a nice looking logarithmic polar plot.
+A Jupyter notebook for a nice looking logarithmic polar plot
 ############################################################## 
 
 
